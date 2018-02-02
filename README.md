@@ -1,4 +1,4 @@
-#MVP Goals:
+# MVP Goals:
 - Home View
 - Navigation Bar
 - Alphabet View
@@ -8,7 +8,7 @@
 - Bootstrap
 -shoelace for formatting divs 
 
-#Stretch Goals: 
+# Stretch Goals: 
 - Angular Material 
 - Voice when a number or letter is clicked on 
 - Color View
@@ -18,5 +18,5 @@
 
 
 
-
+# ERD 
 <img src='images/erd.png'>
